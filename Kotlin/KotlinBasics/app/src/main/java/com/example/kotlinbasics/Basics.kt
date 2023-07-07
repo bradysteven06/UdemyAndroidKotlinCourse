@@ -35,5 +35,5 @@ fun main(){
     println(firstCharInStr)
     println(lastCharInStr)
 
-    println("Hello " + myName)
+    println("Hello $myName")
 }

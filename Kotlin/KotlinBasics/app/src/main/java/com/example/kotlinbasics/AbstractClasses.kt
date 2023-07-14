@@ -4,7 +4,7 @@ package com.example.kotlinbasics
 fun main() {
     val human = Human("Steven", "Oregon", 290.0, 3.0)
     val elephant = Elephant("Humphry", "India", 2100.0, 25.0)
-    
+
 
     human.run()
     elephant.run()
